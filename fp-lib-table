@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "myZigbee")(type "KiCad")(uri "/home/zerberus/projects/_002_KiCad/LIBS/MyZigbee/myZigbee.pretty")(options "")(descr ""))
+)
