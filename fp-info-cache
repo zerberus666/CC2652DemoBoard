@@ -1,4 +1,4 @@
-20113058099146562
+20117996226876219
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85602,6 +85602,27 @@ varistor SIOV
 0
 2
 2
+myPowerManagement
+LM2596Module
+
+
+0
+4
+4
+myTerminal
+DG142V-5.08-2
+
+
+0
+4
+2
+myTerminal
+DG142V-5.08-3
+
+
+0
+6
+3
 myZigbee
 RF-BM-2652P2
 RF-BM-2652P2 Module from RF-star featuring TI CC2652P

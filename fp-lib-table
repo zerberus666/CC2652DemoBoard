@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "myZigbee")(type "KiCad")(uri "/home/zerberus/projects/_002_KiCad/LIBS/MyZigbee/myZigbee.pretty")(options "")(descr ""))
+  (lib (name "myPowerManagement")(type "KiCad")(uri "/home/zerberus/projects/_002_KiCad/LIBS/MyZigbee/myPowerManagement.pretty")(options "")(descr ""))
+  (lib (name "myTerminal")(type "KiCad")(uri "/home/zerberus/projects/_002_KiCad/LIBS/MyZigbee/myTerminal.pretty")(options "")(descr ""))
 )

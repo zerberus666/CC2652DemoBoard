@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "myZigbee")(type "KiCad")(uri "/home/zerberus/projects/_002_KiCad/LIBS/MyZigbee/myZigbee.kicad_sym")(options "")(descr ""))
+  (lib (name "myPowerManagement")(type "KiCad")(uri "/home/zerberus/projects/_002_KiCad/LIBS/MyZigbee/myPowerManagement.kicad_sym")(options "")(descr ""))
 )
